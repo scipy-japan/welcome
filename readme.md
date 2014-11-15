@@ -7,8 +7,8 @@ Python によるデータ分析・科学技術計算に関する日本国内の�
 
 * [Googleグループ](https://groups.google.com/forum/?fromgroups#!forum/tokyo_scipy)
 
-Python を用いたデータ分析関連の活動
------------------------------------
+Python を用いたデータ分析関連のコミュニティ
+-------------------------------------------
 
 ### Pydata Tokyo
 
