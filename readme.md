@@ -1,11 +1,11 @@
-![scipy-japan-logo](https://raw.githubusercontent.com/scipy-japan/welcome/master/scipy-tokyo-64.png)
+![scipy-japan-logo](https://raw.githubusercontent.com/scipy-japan/welcome/master/scipy-japan-256.png)
 
 SciPy Japan
 ===========
 
 Python によるデータ分析・科学技術計算に関する日本国内のコミュニティで共同管理しています．
 
-* [Googleグループ](https://groups.google.com/forum/?fromgroups#!forum/scipy-japan)
+* [Googleグループ](https://groups.google.com/forum/?fromgroups#!forum/tokyo_scipy)
 
 Python を用いたデータ分析関連の活動
 -----------------------------------
