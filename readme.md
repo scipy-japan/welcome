@@ -1,0 +1,1 @@
+![scipy-japan-logo](scipy-japan.png)
