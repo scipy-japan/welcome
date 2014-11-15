@@ -1,4 +1,4 @@
-![scipy-japan-logo](https://raw.githubusercontent.com/scipy-japan/welcome/master/scipy-tokyo-256.png)
+![scipy-japan-logo](https://raw.githubusercontent.com/scipy-japan/welcome/master/scipy-japan-logo-256.png)
 
 SciPy Japan
 ===========
