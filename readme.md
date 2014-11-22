@@ -5,7 +5,7 @@ SciPy Japan
 
 Python によるデータ分析・科学技術計算に関する日本国内のコミュニティで共同管理しています．
 
-* [Googleグループ](https://groups.google.com/forum/?fromgroups#!forum/tokyo_scipy)
+* [Googleグループ](https://groups.google.com/forum/#!forum/scipy-japan-info)
 
 Python を用いたデータ分析関連のコミュニティ
 -------------------------------------------
