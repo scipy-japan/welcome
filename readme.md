@@ -17,7 +17,7 @@ Python を用いたデータ分析関連のコミュニティ
 * [ホームページ@compass](http://pydatatokyo.connpass.com/)
 * [Googleグループ](https://groups.google.com/forum/#!forum/pydata-tokyo)
 * [Twitter](https://twitter.com/PyDataTokyo)
-* [ホームページ](http://pydata.tokyo/)
+* [YouTube](http://www.youtube.com/user/pydatatokyo)
 
 ### SciPy.Tokyo
 
