@@ -19,7 +19,7 @@ Python を用いたデータ分析関連のコミュニティ
 * [Twitter](https://twitter.com/PyDataTokyo)
 * [YouTube](http://www.youtube.com/user/pydatatokyo)
 
-### SciPy.Tokyo
+### Tokyo.SciPy
 
 データ分析関連の勉強会
 
